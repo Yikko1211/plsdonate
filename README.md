@@ -1,0 +1,2 @@
+# plsdonate
+pls donate script
